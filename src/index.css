@@ -1,0 +1,8 @@
+.dark-theme{
+    --root_background: #5c7373;}
+    .light-theme{
+        --root_background: rgb(255, 255, 255);
+    }
+:root{
+    background-color: #687c90;
+}
